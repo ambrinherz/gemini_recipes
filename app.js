@@ -10,7 +10,7 @@ const options = {
 const app = gemini(options);
 
 app.on('/desserts/kulfi',(req,res) => {
-	res.data(content, mimeType='text/gemini');
+	res.file('recipes/desserts/kulfi.gmi');
 });
 
 app.listen(() => {
