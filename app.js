@@ -10,7 +10,6 @@ const options = {
 const app = gemini(options);
 
 app.on('/desserts/kulfi',(req,res) => {
-	const content = fs.readFileSync('recipes/desserts/kulfi.gmi');
 	res.data(content, mimeType='text/gemini');
 });
 
