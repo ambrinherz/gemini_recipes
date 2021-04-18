@@ -1,4 +1,4 @@
 #! /bin/bash
 
-sudo docker stop gemc
-sudo docker rm gemc 
+sudo docker stop recipes
+sudo docker rm recipes 

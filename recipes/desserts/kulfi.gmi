@@ -2,21 +2,38 @@
 
 ## Ingredients:
 
-* 1. Whole milk - 0.5 ltr
-* 2. Condensed milk - 50 gm
-* 3. Cashew nuts/almonds/pistachios - 25 gm (peeled and chopped)
-* 4. Sugar - 8 tps
-* 5. Cardamon powder/vanilla essence - 0.25 tps/ a few drops
-* 6. Custard powder/corn flour - 1 Tbsp (optional)
+* Whole milk                            0.5 ltr
+* Condensed milk                        50 gm
+* Cashew nuts / almonds / pistachios    25 gm (peeled and chopped)
+* Sugar                                 8 tsp
+* Cardamon powder / vanilla essence     a few drops
+* Custard powder / corn flour           1 Tbsp (optional)
 
 ## Instructions:
 
-* 1. Boil milk in a wide pan, when it comes to boil, simmer the flame.
-* 2.  Mix the custard powder/corn flour adding little water or milk in a small bowl and add it to the boiling milk and keep stirring.
-* 3. Add milk powder or condensed milk, keep stirring.
-* 4. Add cardamom powder, sugar and nuts and keep stirring and switch off the stove.
-* 5. Bring it to room temperature, pour the milk mixture in a big bowl and refrigerate it for 6 hours in the freezer.  
-* 6. Then remove it from the freezer and bring it to room temperature and grind/blend it in the mixer/blender for 1 minute.
-* 7. Again pour it back into the big bowl and refrigerate it for another 6 hours and repeat the same operation again. 
-* 8. If you have kulfi moulds, pour the mixture into the moulds.
-* 9. If you do not have the kulfi moulds, no problem, pour the mixture into small glasses or bowls or small earthen pots and refrigerate it for 8 hours and your delicious kulfi is ready to serve. 
+```
+    1. Boil milk in a wide pan, when it comes to boil, simmer the flame.
+
+    2. Mix the custard powder/corn flour adding little water or milk in a 
+       small bowl and add it to the boiling milk and keep stirring.
+
+    3. Add milk powder or condensed milk, keep stirring.
+
+    4. Add cardamom powder, sugar and nuts and keep stirring and switch 
+       off the stove.
+
+    5. Bring it to room temperature, pour the milk mixture in a big bowl 
+       and refrigerate it for 6 hours in the freezer.  
+
+    6. Then remove it from the freezer and bring it to room temperature 
+       and grind/blend it in the mixer/blender for 1 minute.
+
+    7. Again pour it back into the big bowl and refrigerate it for another 
+       6 hours and repeat the same operation again. 
+
+    8. If you have kulfi moulds, pour the mixture into the moulds.
+
+    9. If you do not have the kulfi moulds, no problem, pour the mixture 
+       into small glasses or bowls or small earthen pots and refrigerate it 
+       for 8 hours and your delicious kulfi is ready to serve. 
+```

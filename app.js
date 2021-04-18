@@ -10,14 +10,14 @@ const options = {
 const app = gemini(options);
 
 app.on('/desserts/kulfi',(req,res) => {
-    res.file('recipes/desserts/kulfi.gmi');
+	res.data(content, mimeType='text/gemini');
 });
 
 app.listen(() => {
-	console.log("Started>>>");
+	console.log("Listening...");
 });
 
 proc.on('SIGINT', () => {
-	console.info("interrupted");
+	console.info("Interrupted");
 	process.exit(0);
 });
