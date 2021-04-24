@@ -13,6 +13,9 @@ app.on('/desserts/kulfi',(req,res) => {
 	res.file('recipes/desserts/kulfi.gmi');
 });
 
+app.on('/desserts/empanadas',(req,res) => {
+    res.file('recipes/desserts/Sweet_Empanadas.gmi');
+});
 app.listen(() => {
 	console.log("Listening...");
 });
