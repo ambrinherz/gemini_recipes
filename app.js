@@ -13,6 +13,10 @@ app.on('/desserts/kulfi',(req,res) => {
 	res.file('recipes/desserts/kulfi.gmi');
 });
 
+app.on('/desserts/gulab-jamun',(req,res) => {
+	res.file('recipes/desserts/gulab-jamun.gmi');
+});
+
 app.listen(() => {
 	console.log("Listening...");
 });
